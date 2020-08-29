@@ -1,0 +1,2 @@
+# desafio-tqi
+Desafio TQI
